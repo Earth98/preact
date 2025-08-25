@@ -1,0 +1,9 @@
+{
+  "name": "earth-utils-npm-package",
+  "version": "1.0.0",
+  "description": "My first npm package for learning",
+  "main": "index.js",
+  "keywords": ["utils", "greet"],
+  "author": "Pruthvirajsinh Jadeja",
+  "license": "MIT"
+}
