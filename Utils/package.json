@@ -1,6 +1,6 @@
 {
   "name": "earth-utils-npm-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My first npm package for learning",
   "main": "index.js",
   "keywords": ["utils", "greet"],
